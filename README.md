@@ -1,8 +1,8 @@
 # ABIDE_ML
+---
 SOCR Machine Learning methods and tools using the ABIDE Dataset
 
 # Project Description
----
 
 Multi-source, heterogeneous and multifaceted data for 11,000 participants were acquired for a large scale study. Imaging, genetics, clinical assessments and demographic information was recorded at multiple times. The data was preprocessed, derived neuroimaging morphometry measures were computed, and a single computable data object was created by harmonizing and aggregating all the available information. The final sample size was reduced to 9,914, as some cases were removed due to preprocessing errors, extreme missingness, or inconsistencies.
 
